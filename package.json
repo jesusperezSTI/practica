@@ -1,0 +1,23 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "practica 1 curso fecha 13-5-19",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusperezSTI/practica.git"
+  },
+  "keywords": [
+    "practica1",
+    "curso"
+  ],
+  "author": "jesus daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusperezSTI/practica/issues"
+  },
+  "homepage": "https://github.com/jesusperezSTI/practica#readme"
+}
